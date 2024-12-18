@@ -1,4 +1,10 @@
-## Hi there 👋
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himanshu-Dangwal&show_icons=true&theme=gotham" alt="ShubhaamTiwary's GitHub Stats" />  
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Himanshu-Dangwal&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="Top Languages" />
+  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=Himanshu-Dangwal&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
 <!--
 **Himanshu-Dangwal/Himanshu-Dangwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
