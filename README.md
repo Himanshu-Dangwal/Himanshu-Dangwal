@@ -1,9 +1,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himanshu-Dangwal&show_icons=true&theme=gotham" alt="ShubhaamTiwary's GitHub Stats" />  
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himanshu-Dangwal&show_icons=true&theme=gotham" alt="Himanshu-Dangwal GitHub Stats" />  
   <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Himanshu-Dangwal&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="Top Languages" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Dangwal&theme=merko" alt="Himanshu-Dangwal github readme activity graph" width="60%" />
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu-Dangwal&theme=onedark)
