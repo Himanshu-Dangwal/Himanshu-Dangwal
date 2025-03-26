@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MatinT-SA&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu-Dangwal&theme=onedark)
 <!--
 **Himanshu-Dangwal/Himanshu-Dangwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
