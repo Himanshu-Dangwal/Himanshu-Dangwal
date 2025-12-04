@@ -5,8 +5,6 @@
   <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Himanshu-Dangwal&layout=compact&show_icons=true&theme=gotham&hide=jupyter%20notebook" alt="Top Languages" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Dangwal&theme=merko" alt="Himanshu-Dangwal github readme activity graph" width="60%" />
 </div>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu-Dangwal&theme=onedark)
 <!--
 **Himanshu-Dangwal/Himanshu-Dangwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
